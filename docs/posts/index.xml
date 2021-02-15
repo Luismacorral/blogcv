@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi blog CV</title>
-    <link>https://luismacorral.github.io/blogcv/posts/</link>
+    <link>www.luismanuelcorral.com/posts/</link>
     <description>Recent content in Posts on Mi blog CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 15 Feb 2021 20:15:21 +0100</lastBuildDate><atom:link href="https://luismacorral.github.io/blogcv/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 20:15:21 +0100</lastBuildDate><atom:link href="www.luismanuelcorral.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer Post</title>
-      <link>https://luismacorral.github.io/blogcv/posts/primer-post/</link>
+      <link>www.luismanuelcorral.com/posts/primer-post/</link>
       <pubDate>Mon, 15 Feb 2021 20:15:21 +0100</pubDate>
       
-      <guid>https://luismacorral.github.io/blogcv/posts/primer-post/</guid>
+      <guid>www.luismanuelcorral.com/posts/primer-post/</guid>
       <description>Este es el primer post</description>
     </item>
     

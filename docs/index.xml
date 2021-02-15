@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi blog CV</title>
-    <link>https://luismacorral.github.io/blogcv/</link>
+    <link>www.luismanuelcorral.com/</link>
     <description>Recent content on Mi blog CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 15 Feb 2021 20:18:51 +0100</lastBuildDate><atom:link href="https://luismacorral.github.io/blogcv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 20:18:51 +0100</lastBuildDate><atom:link href="www.luismanuelcorral.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# Primer post</title>
-      <link>https://luismacorral.github.io/blogcv/csharp/csharp-01/</link>
+      <link>www.luismanuelcorral.com/csharp/csharp-01/</link>
       <pubDate>Mon, 15 Feb 2021 20:18:51 +0100</pubDate>
       
-      <guid>https://luismacorral.github.io/blogcv/csharp/csharp-01/</guid>
+      <guid>www.luismanuelcorral.com/csharp/csharp-01/</guid>
       <description>Primer post sobre C#</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>https://luismacorral.github.io/blogcv/posts/primer-post/</link>
+      <link>www.luismanuelcorral.com/posts/primer-post/</link>
       <pubDate>Mon, 15 Feb 2021 20:15:21 +0100</pubDate>
       
-      <guid>https://luismacorral.github.io/blogcv/posts/primer-post/</guid>
+      <guid>www.luismanuelcorral.com/posts/primer-post/</guid>
       <description>Este es el primer post</description>
     </item>
     
     <item>
       <title>Indice</title>
-      <link>https://luismacorral.github.io/blogcv/indice/</link>
+      <link>www.luismanuelcorral.com/indice/</link>
       <pubDate>Mon, 15 Feb 2021 20:03:23 +0100</pubDate>
       
-      <guid>https://luismacorral.github.io/blogcv/indice/</guid>
+      <guid>www.luismanuelcorral.com/indice/</guid>
       <description>¡¡Bienvenidos a mi blog de programación&amp;hellip;!!</description>
     </item>
     
