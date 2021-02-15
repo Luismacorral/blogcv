@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Mi blog CV"
+theme ="tale"
+
+[menu]
+  [[menu.main]]
+	identifier = "c#"
+	name = "C#"
+	title = "c#"
+	url = "/csharp/"
+	weight = 0
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0
