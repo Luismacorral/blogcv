@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Csharps on Mi blog CV</title>
-    <link>http://example.org/csharp/</link>
+    <link>https://luismacorral.github.io/blogcv/csharp/</link>
     <description>Recent content in Csharps on Mi blog CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 15 Feb 2021 20:18:51 +0100</lastBuildDate><atom:link href="http://example.org/csharp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 20:18:51 +0100</lastBuildDate><atom:link href="https://luismacorral.github.io/blogcv/csharp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# Primer post</title>
-      <link>http://example.org/csharp/csharp-01/</link>
+      <link>https://luismacorral.github.io/blogcv/csharp/csharp-01/</link>
       <pubDate>Mon, 15 Feb 2021 20:18:51 +0100</pubDate>
       
-      <guid>http://example.org/csharp/csharp-01/</guid>
+      <guid>https://luismacorral.github.io/blogcv/csharp/csharp-01/</guid>
       <description>Primer post sobre C#</description>
     </item>
     
