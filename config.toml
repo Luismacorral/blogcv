@@ -1,4 +1,4 @@
-baseURL = "https://luismacorral.github.io/blogcv/"
+baseURL = "www.luismanuelcorral.com"
 languageCode = "es"
 title = "Mi blog CV"
 theme ="tale"
