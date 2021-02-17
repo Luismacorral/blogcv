@@ -8,11 +8,11 @@ theme ="tale"
 	identifier = "c#"
 	name = "C#"
 	title = "c#"
-	url = "/csharp/"
+	url = "www.luismanuelcorral.com/csharp/"
 	weight = 0
   [[menu.main]]
 	identifier = "posts"
 	name = "Posts"
 	title = "Posts"
-	url = "/posts/"
+	url = "www.luismanuelcorral.com/posts/"
 	weight = 0
