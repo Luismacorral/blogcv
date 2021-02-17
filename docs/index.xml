@@ -11,28 +11,28 @@
       <title>C# Primer post</title>
       <link>www.luismanuelcorral.com/csharp/csharp-01/</link>
       <pubDate>Mon, 15 Feb 2021 20:18:51 +0100</pubDate>
-      
+
       <guid>www.luismanuelcorral.com/csharp/csharp-01/</guid>
       <description>Primer post sobre C#</description>
     </item>
-    
+
     <item>
       <title>Primer Post</title>
       <link>www.luismanuelcorral.com/posts/primer-post/</link>
       <pubDate>Mon, 15 Feb 2021 20:15:21 +0100</pubDate>
-      
+
       <guid>www.luismanuelcorral.com/posts/primer-post/</guid>
       <description>Este es el primer post</description>
     </item>
-    
+
     <item>
       <title>Indice</title>
       <link>www.luismanuelcorral.com/indice/</link>
       <pubDate>Mon, 15 Feb 2021 20:03:23 +0100</pubDate>
-      
+
       <guid>www.luismanuelcorral.com/indice/</guid>
       <description>¡¡Bienvenidos a mi blog de programación&amp;hellip;!!</description>
     </item>
-    
+
   </channel>
 </rss>
