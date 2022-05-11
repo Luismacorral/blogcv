@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Blog Luis Manuel Corral'
+theme = "diary"
+
+[[menu.main]]
+url = "/leetcode"
+name = "Leetcode"
+weight = 4
+
+[[menu.main]]
+url = "/react"
+name = "React"
+weight = 3
+
+[[menu.main]]
+url = "/java"
+name = "Java"
+weight = 2
+
+[[menu.main]]
+url = "/python"
+name = "Python"
+weight = 1
